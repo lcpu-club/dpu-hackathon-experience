@@ -1,10 +1,10 @@
 ---
 theme: slidev-theme-lcpu
-title: Experience at NVIDIA DPU Hackthon
+title: Experience at NVIDIA DPU Hackathon
 zoom: 0.8
 ---
 
-# <span style="font-weight: initial">LCPU at </span><br>NVIDIA DPU Hackthon
+# <span style="font-weight: initial">LCPU at </span><br>NVIDIA DPU Hackathon
 
 <br> DPU-Accelerated Zero-Overhead Sidecar for Cloud-Native Observability
 
@@ -57,6 +57,23 @@ zoom: 1.2
 - Cooperated within the Team
 
 </v-clicks>
+
+---
+zoom: 1.2
+layout: two-cols-header
+---
+
+# Experience: Debugging with Docs
+
+::left::
+
+![](/image.png)
+
+::right::
+
+![](/2.png)
+
+<p style="text-align: center"> !!CRITICAL SETTING MISSING!!<br>in documentation </p>
 
 ---
 zoom: 1.2
